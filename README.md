@@ -1,16 +1,16 @@
-# noteapp
+# 📊 Dynamic Expense Tracker
 
-A new Flutter project.
+A modern, responsive mobile application built with **Flutter** to help users manage their daily expenses with dynamic data handling.
 
-## Getting Started
+## 🚀 Features
+* **Dynamic List Management:** Add and remove expenses in real-time.
+* **Categorization:** Group spending into categories (Food, Travel, Leisure, etc.).
+* **Interactive UI:** Built using Flutter's powerful widget system for a smooth user experience.
+* **Data Persistence:** (If you've added it) Saves your data locally.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+* **Framework:** Flutter
+* **Language:** Dart
+* **State Management:** (e.g., Provider/Riverpod/SetState)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
