@@ -16,7 +16,7 @@ A sleek and functional expense management application built using **Flutter**. T
 ## 📸 Screenshots
 | Main Screen | Adding Expense |
 | :---: | :---: |
-| <img src="screenshots/screenshot1.jpg" width="300"> | <img src="screenshots/screenshot2.jpg" width="300">  |
+| <img src="screenshots/screenshot2.jpg" width="300"> | <img src="screenshots/screenshot1.jpg" width="300">  |
 
 ## 🚀 How to Run
 1. Clone this repo: `git clone https://github.com/Cherry-sys-hub/new_expense_tracker_in_flutter.git`
