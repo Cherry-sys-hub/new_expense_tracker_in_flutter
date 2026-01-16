@@ -14,3 +14,5 @@ A modern, responsive mobile application built with **Flutter** to help users man
 * **State Management:** (e.g., Provider/Riverpod/SetState)
 
 ## 📸 Screenshots
+
+<img src="screenshots/screenshot1.jpg" width="300"> <img src="screenshots/screenshot2.jpg" width="300"> 
